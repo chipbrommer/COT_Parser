@@ -1,2 +1,2 @@
 # COT_Parser
-A C++ COT parser. 
+A simple C++ solution to parsing Cursor On Target (COT) messages using PugiXML. 
