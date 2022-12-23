@@ -1,6 +1,6 @@
 #include "./PugiXML/pugixml.hpp"
 #include <iostream>
-#include "COTParser/cotParser.hpp"
+#include "./COTParser/cotParser.hpp"
 
 int main()
 {
